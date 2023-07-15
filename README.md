@@ -1,4 +1,4 @@
-[![MasterHead](https://gamepedia.cursecdn.com/wowpedia/f/f2/Gryphon_Chris_Robinson.jpg)](https://38eed.dev)
+[![MasterHead](https://35yards.files.wordpress.com/2011/04/dwarven_gryphon_rider.jpg?w=590)](https://38eed.dev)
 <h1 align="center">Hi 👋, I'm 38eeD</h1>
 <h3 align="center">Future Software Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://images6.alphacoders.com/801/801790.jpg">
