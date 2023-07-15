@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/cook-becker/image/fetch/q_auto,f_auto,w_1920,e_sharpen/https://candb.com/site/candb/images/artwork/Dwarven-Gryphon-Rider_world-of-warcraft_1920.jpg)](https://38eed.dev)
+[![MasterHead](https://static.wikia.nocookie.net/wowpedia/images/c/c4/Kurdran_Wildhammer_TCG_Alt.jpg/revision/latest?cb=20210327230326)](https://38eed.dev)
 <h1 align="center">Hi 👋, I'm 38eeD</h1>
 <h3 align="center">Future Software Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://images6.alphacoders.com/801/801790.jpg">
