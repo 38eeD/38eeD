@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, Javascript, CSS, HTML, Typescript.**
 
-- 🎮 My Favorite Games is **World Of Warcraft Classic, Minecraft, etc.**
+- 🎮 My Favorite Games Are **World Of Warcraft Classic, Minecraft, etc.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
